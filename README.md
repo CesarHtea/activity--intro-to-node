@@ -60,7 +60,7 @@ const products = {
 const orders = {
   data: [{
     id: 1,
-    date:
+    date: '04-01-2018',
     products: [{
       id: 2,
       name: 'Halls',
@@ -73,7 +73,7 @@ const orders = {
     total: '25.00'
   }, {
     id: 2,
-    date:
+    date: '04-09-2018',
     products: [{
       id: 1,
       name: 'Cookies',
